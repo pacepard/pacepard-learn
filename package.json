@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "@hookform/resolvers": "^5.7.1",
-        "@pacepard/ui": "file:../pacepard-ui",
+        "@pacepard/ui": "^0.3.0",
         "axios": "^1.11.0",
         "jquery": "^4.0.0",
         "lucide-react": "^0.539.0",
